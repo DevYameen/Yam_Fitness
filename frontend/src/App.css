@@ -146,10 +146,11 @@ header p {
 }
 
 .workout_session {
+  width: 100vw; /* Full viewport width */
   min-height: 100vh;
   display: flex;
-  max-width: 1500px;
-  margin: 0 auto;
+  max-width: none; /* Remove any maximum width restriction */
+  margin: 0; /* Remove margin */
   padding: 100px 0 50px 0;
   gap: 75px;
   background-color: #000;
@@ -793,7 +794,7 @@ footer {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('/background.jpg') no-repeat center center/cover;
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.7); /* Overlay for readability */
 }
