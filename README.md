@@ -36,63 +36,44 @@ Follow these simple steps to set up the **YAm Fitness App** on your local machin
 ### 1. Clone the Repository
 
 git clone https://github.com/DevYameen/Yam_Fitness
-#!/bin/bash
 
-echo "Step 2: Navigate to the Project Directory"
-echo "------------------------------------------"
-echo "Use the following command to go into the project directory:"
-echo ""
-echo "cd YAm-Fitness-App"
-echo ""
-echo "------------------------------------------"
+### 2. Navigate to the Project Directory
 
-echo "Step 3: Install Dependencies"
-echo "------------------------------------------"
-echo "Ensure that Node.js is installed on your machine."
-echo "Then, install the necessary project dependencies by running:"
-echo ""
-echo "npm install"
-echo ""
-echo "------------------------------------------"
+cd Yam-Fitness
 
-echo "Step 4: Set Up Your Environment Variables"
-echo "------------------------------------------"
-echo "Create a .env file in the root directory of the project and add the following lines with your email service credentials (used for the contact form):"
-echo ""
-echo "EMAIL_SERVICE=your_email_service_provider"
-echo "EMAIL_USER=your_email_address"
-echo "EMAIL_PASS=your_email_password"
-echo ""
-echo "💡 Tip: You can use services like Gmail, Outlook, or any SMTP provider."
-echo "------------------------------------------"
+### 3. Install Dependencies
 
-echo "Step 5: Start the App"
-echo "------------------------------------------"
-echo "Fire up the app with the following command:"
-echo ""
-echo "npm start"
-echo ""
-echo "The app will start running on http://localhost:3000 🎉"
-echo "------------------------------------------"
+Make sure you have Node.js installed, then run:
+npm install
 
-echo "How to Use the Email Contact Feature:"
-echo "------------------------------------------"
-echo "1. Go to the 'Contact Us' section of the app."
-echo "2. Enter your name, email, and message."
-echo "3. Hit the 'Send' button."
-echo "Voilà! Your message will be sent to the developer."
-echo "------------------------------------------"
+### 4. Set Up Your Environment Variables
+   
+Create a .env file in the root directory of the project and add the following lines with your email service credentials (used for the contact form):
 
-echo "📋 License:"
-echo "------------------------------------------"
-echo "This project is licensed under the MIT License."
-echo "Feel free to use, modify, and distribute it as you like!"
-echo "------------------------------------------"
+EMAIL_SERVICE=your_email_service_provider
+EMAIL_USER=your_email_address
+EMAIL_PASS=your_email_password
+💡 Tip: You can use services like Gmail, Outlook, or any SMTP provider.
 
-echo "📞 Need Help or Want to Connect?"
-echo "------------------------------------------"
-echo "Feel free to reach out via the 'YAm Fitness App' or by sending an email directly:"
-echo "Email: your-email@example.com"
-echo ""
-echo "Let’s stay fit and healthy together! 🏃‍♂️💨"
+### 5. Start the App
 
+Fire up the app with the following command:
+npm start
+The app will start running on http://localhost:3000. 🎉
+
+## 🎯 How to Use the Email Contact Feature
+
+Go to the Contact Us section.
+Enter your name, email, and message.
+Hit the Send button – and voilà! Your message will be on its way to me.
+
+## 📋 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you like!
+
+## 📞 Need Help or Want to Connect?
+
+Feel free to reach out to me through the YAm Fitness App or drop me an email directly:
+
+Email: yammirza793@gmail.com
+Let’s stay fit and healthy together! 🏃‍♂️💨
