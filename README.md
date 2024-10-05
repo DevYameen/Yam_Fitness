@@ -1,6 +1,6 @@
-# YAm Fitness App 🏋️‍♂️
+# Yam Fitness  🏋️‍♂️
 
-Welcome to the **YAm Fitness App** – your ultimate companion for tracking workouts, monitoring progress, and achieving your fitness goals! This app is designed to help you stay on top of your fitness game, offering you the tools you need to plan, execute, and measure your fitness journey. Plus, you can reach out to me directly via the built-in email feature for any questions or suggestions. 💪
+Welcome to the **Yam Fitness** – your ultimate companion for tracking workouts, monitoring progress, and achieving your fitness goals! This app is designed to help you stay on top of your fitness game, offering you the tools you need to plan, execute, and measure your fitness journey. Plus, you can reach out to me directly via the built-in email feature for any questions or suggestions. 💪
 
 ---
 
